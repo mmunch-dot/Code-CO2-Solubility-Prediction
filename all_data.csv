@@ -1,0 +1,259 @@
+﻿product;Type;product_id;temperature;solubility;fat;protein;salt;sugars;water;fat_water;fat_source;protein_source;salt_source;sugar_source;water_source;solubility_source;variance
+;;;°C;mol/(kg*Atm);g/100g;g/100g;g/100g;g/100g;g/100g;g/100g;;;;;;;
+Cheese pressed curd uncooked;Cheese;;15;0.025446429;10;34.5;1.121;0;49.5;59.5;paper;paper;fineli kadett_9_11_fat;fineli kadett_9_11_fat;paper;Acerbi_2015;
+Cheese pressed curd uncooked;Cheese;;20;0.022321429;10;34.5;1.121;0;49.5;59.5;paper;paper;fineli kadett_9_11_fat;fineli kadett_9_11_fat;paper;Acerbi_2015;
+Cheese pressed curd uncooked;Cheese;;10;0.027678571;10;34.5;1.121;0;49.5;59.5;paper;paper;fineli kadett_9_11_fat;fineli kadett_9_11_fat;paper;Acerbi_2015;
+Cheese pressed curd uncooked;Cheese;;0;0.033928571;10;34.5;1.121;0;49.5;59.5;paper;paper;fineli kadett_9_11_fat;fineli kadett_9_11_fat;paper;Acerbi_2015;
+Cheese pressed curd uncooked;Cheese;;5;0.029017857;10;34.5;1.121;0;49.5;59.5;paper;paper;fineli kadett_9_11_fat;fineli kadett_9_11_fat;paper;Acerbi_2015;
+Cheese;Cheese;;22;0.0356664;14;12.2;;;66;80;Chaix_2015;Chaix_2015;;;Chaix_2015;Chaix_2015;
+grated Grana;Cheese;;7;0.004964925;23;35;;;26.5;49.5;;;;;;Fava_1992;
+Crescenza;Cheese;;7;0.032424;24;19;;;56.2;80.2;;;;;;Fava_1992;
+Parmesan -- grated ;Cheese;P103;7;0.005089286;30;41.5;2.5;;17.7;47.7;meatyLab;meatyLab;meatyLab;;meatyLab;Fava_1992;
+Butterfat Ghee;Cheese;;0;0.03951675;100;0;;;0;100;;;;;;Jakobsen_2009;
+butterfat;Cheese;;22;0.0383;100;0;;;0;100;;;;;;Pauchard_1980;
+butterfat;Cheese;;3;0.033541695;100;0;;;0;100;;;;;;Jakobsen_2009;
+butterfat;Cheese;;11;0.042033434;100;0;;;0;100;;;;;;Jakobsen_2009;
+butterfat;Cheese;;15;0.038912189;100;0;;;0;100;;;;;;Jakobsen_2009;
+butterfat;Cheese;;19;0.045054101;100;0;;;0;100;;;;;;Jakobsen_2009;
+Cheese semi-hard -- 20+ ;Cheese;;0;0.033928571;10.7;35.7;1.121;0;46.6;57.3;Jakobsen_2014;Jakobsen_2014;fineli kadett_9_11_fat;fineli kadett_9_11_fat;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 20+ ;Cheese;;5;0.029017857;10.7;35.7;1.121;0;46.6;57.3;Jakobsen_2015;Jakobsen_2015;fineli kadett_9_11_fat;fineli kadett_9_11_fat;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 20+ ;Cheese;;20;0.022321429;10.7;35.7;1.121;0;46.6;57.3;Jakobsen_2016;Jakobsen_2016;fineli kadett_9_11_fat;fineli kadett_9_11_fat;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 20+ ;Cheese;;10;0.027678571;10.7;35.7;1.121;0;46.6;57.3;Jakobsen_2017;Jakobsen_2017;fineli kadett_9_11_fat;fineli kadett_9_11_fat;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 20+ ;Cheese;;15;0.025446429;10.7;35.7;1.121;0;46.6;57.3;Jakobsen_2018;Jakobsen_2018;fineli kadett_9_11_fat;fineli kadett_9_11_fat;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 30+ ;Cheese;;15;0.028125;16.7;30.6;;;46.7;63.4;Jakobsen_2019;Jakobsen_2019;;;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 30+ ;Cheese;;5;0.030803571;16.7;30.6;;;46.7;63.4;Jakobsen_2020;Jakobsen_2020;;;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 30+ ;Cheese;;20;0.025;16.7;30.6;;;46.7;63.4;Jakobsen_2021;Jakobsen_2021;;;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 30+ ;Cheese;;10;0.028125;16.7;30.6;;;46.7;63.4;Jakobsen_2022;Jakobsen_2022;;;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 30+ ;Cheese;;0;0.036607143;16.7;30.6;;;46.7;63.4;Jakobsen_2023;Jakobsen_2023;;;Jakobsen_2009;Jakobsen_2009;
+Snellina;Cheese;;7;0.0790335;19.5;20;;;60.3;79.8;;;;;;Fava_1992;
+Casatella;Cheese;;7;0.028371;19.7;20;;;60.2;79.9;;;;;;Fava_1992;
+Taleggio;Cheese;;7;0.03343725;23.4;26;;;51.4;74.8;;;;;;Fava_1992;
+Cheese semi-hard -- 45+ ;Cheese;;10;0.030803571;24.6;24.3;1.302;0;46.1;70.7;Jakobsen_2024;Jakobsen_2024;fineli edam_24_27_fat;fineli kadett_9_11_fat;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 45+ ;Cheese;;5;0.033035714;24.6;24.3;1.302;0;46.1;70.7;Jakobsen_2025;Jakobsen_2025;fineli edam_24_27_fat;fineli kadett_9_11_fat;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 45+ ;Cheese;;20;0.025446429;24.6;24.3;1.302;0;46.1;70.7;Jakobsen_2026;Jakobsen_2026;fineli edam_24_27_fat;fineli kadett_9_11_fat;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 45+ ;Cheese;;15;0.029017857;24.6;24.3;1.302;0;46.1;70.7;Jakobsen_2027;Jakobsen_2027;fineli edam_24_27_fat;fineli kadett_9_11_fat;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 45+ ;Cheese;;0;0.035267857;24.6;24.3;1.302;0;46.1;70.7;Jakobsen_2028;Jakobsen_2028;fineli edam_24_27_fat;fineli kadett_9_11_fat;Jakobsen_2009;Jakobsen_2009;
+Gorgonzola -- soft ;Cheese;P12524;7;0.056339286;26.4;18.8;1.77;0.3;51.1;77.5;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Fava_1992;
+Maasdam27fat_T;Cheese;P12741;2;0.04191;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;2;0.04213;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;2;0.04106;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;2;0.04196;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;2;0.03935;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;2;0.03841;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;2;0.03381;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;2;0.03345;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;2;0.036;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;2;0.03249;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;2;0.03101;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;2;0.03365;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;13;0.03318;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;13;0.0311;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;13;0.02919;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;13;0.03426;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;13;0.0331;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;13;0.03146;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;13;0.0349;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;13;0.03317;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;13;0.03195;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;13;0.03403;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;13;0.03441;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;13;0.03175;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;19;0.03135;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;19;0.03039;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;19;0.03426;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;19;0.02868;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;19;0.03144;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;19;0.03268;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;19;0.02803;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;19;0.02644;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;19;0.03287;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;19;0.02936;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;19;0.03251;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;19;0.03082;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;25;0.03165;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;25;0.03203;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;25;0.03308;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;25;0.03103;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;25;0.03157;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;25;0.02839;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;25;0.0289;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;25;0.02686;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;25;0.0277;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;25;0.02482;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;25;0.02826;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_T;Cheese;P12741;25;0.02839;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.03318;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.0311;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.02919;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.03426;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.03146;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.0349;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.03317;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.03195;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.03403;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.03441;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.03175;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.0331;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.03191;26.5;27.3;2.7;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.03237;26.5;27.3;2.7;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.0303;26.5;27.3;2.7;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.02529;26.5;27.3;2.7;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.02393;26.5;27.3;2.7;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.02717;26.5;27.3;2.7;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.02478;26.5;27.3;2.7;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.01999;26.5;27.3;2.7;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_salt;Cheese;P12741;13;0.02008;26.5;27.3;2.7;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.04676;26.5;27.3;0;0;39;65.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.04094;26.5;27.3;0;0;39;65.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.04616;26.5;27.3;0;0;39;65.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03825;26.5;27.3;0;0;39;65.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03514;26.5;27.3;0;0;39;65.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.0399;26.5;27.3;0;0;39;65.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.04645;26.5;27.3;0;0;39;65.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.0378;26.5;27.3;0;0;39;65.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.04014;26.5;27.3;0;0;39;65.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03718;26.5;27.3;0;0;39;65.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03318;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.0311;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.02919;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03426;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.0331;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03146;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.0349;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03317;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03195;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03403;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03441;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03175;26.5;27.3;0;0;42;68.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.04255;26.5;27.3;0;0;48;74.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.04395;26.5;27.3;0;0;48;74.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.04068;26.5;27.3;0;0;48;74.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.04017;26.5;27.3;0;0;48;74.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.0368;26.5;27.3;0;0;48;74.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03988;26.5;27.3;0;0;48;74.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03573;26.5;27.3;0;0;48;74.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03712;26.5;27.3;0;0;48;74.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03593;26.5;27.3;0;0;48;74.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03158;26.5;27.3;0;0;48;74.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03259;26.5;27.3;0;0;48;74.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Maasdam27fat_water;Cheese;P12741;13;0.03659;26.5;27.3;0;0;48;74.5;paper;paper;paper;meatyLab;paper;Acerbi_2015;0
+Emmental;Cheese;P12115;22;0.0383;30.2;27.9;0.56;0.17;38.7;68.9;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Pauchard_1980;
+Emmental -- semi-hard ;Cheese;P12115;7;0.028392857;30.2;27.9;0.56;0.17;38.7;68.9;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Fava_1992;
+Cheese semi-hard -- 10+ ;Cheese;;0;0.034821429;5.7;36.4;;;53.6;59.3;Jakobsen_2009;Jakobsen_2009;;;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 10+ ;Cheese;;5;0.032142857;5.7;36.4;;;53.6;59.3;Jakobsen_2010;Jakobsen_2010;;;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 10+ ;Cheese;;10;0.028571429;5.7;36.4;;;53.6;59.3;Jakobsen_2011;Jakobsen_2011;;;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 10+ ;Cheese;;15;0.025446429;5.7;36.4;;;53.6;59.3;Jakobsen_2012;Jakobsen_2012;;;Jakobsen_2009;Jakobsen_2009;
+Cheese semi-hard -- 10+ ;Cheese;;20;0.023214286;5.7;36.4;;;53.6;59.3;Jakobsen_2013;Jakobsen_2013;;;Jakobsen_2009;Jakobsen_2009;
+Butter;Cheese;;22;0.021176925;82.5;1.1;;;14.9;97.4;Chaix_2015;Chaix_2015;;;Chaix_2015;Chaix_2015;
+Anglerfish;Fish;;0;0.050823789;0.1;15.8;;;82.6;82.7;Sivertsvik_2004a;Sivertsvik_2004a;;;Sivertsvik_2004a;Sivertsvik_2004a;
+Tuna;Fish;;0;0.049726083;0.2;25.1;;;74;74.2;Sivertsvik_2004a;Sivertsvik_2004a;;;Sivertsvik_2004a;Sivertsvik_2004a;
+Cod;Fish;;0;0.05507937;0.3;16.6;;;82.2;82.5;Sivertsvik_2004a;Sivertsvik_2004a;;;Sivertsvik_2004a;Sivertsvik_2004a;
+Cod;Fish;;-2;0.061724334;0.3;16.6;;;82.2;82.5;Sivertsvik_2004a;Sivertsvik_2004a;;;Sivertsvik_2004a;Sivertsvik_2004a;
+Cod;Fish;;2;0.049941815;0.3;16.6;;;82.2;82.5;Sivertsvik_2004a;Sivertsvik_2004a;;;Sivertsvik_2004a;Sivertsvik_2004a;
+Cod;Fish;;4;0.042399957;0.3;16.6;;;82.2;82.5;Sivertsvik_2004a;Sivertsvik_2004a;;;Sivertsvik_2004a;Sivertsvik_2004a;
+Salmon (II);Fish;;0;0.05220675;15.6;18.5;;;63.8;79.4;Sivertsvik_2004a;Sivertsvik_2004a;;;Sivertsvik_2004a;Sivertsvik_2004a;
+Wolf-fish;Fish;;0;0.047082161;2.5;18.6;;;77.6;80.1;Sivertsvik_2004a;Sivertsvik_2004a;;;Sivertsvik_2004a;Sivertsvik_2004a;
+Salmon (III);Fish;;0;0.052088635;21.1;19.6;;;57.9;79;Sivertsvik_2004a;Sivertsvik_2004a;;;Sivertsvik_2004a;Sivertsvik_2004a;
+Salmon (I);Fish;;0;0.04689038;9.9;19.2;;;69.8;79.7;Sivertsvik_2004a;Sivertsvik_2004a;;;Sivertsvik_2004a;Sivertsvik_2004a;
+Salmon (I);Fish;;-2;0.047667032;9.9;19.2;;;69.8;79.7;Sivertsvik_2004a;Sivertsvik_2004a;;;Sivertsvik_2004a;Sivertsvik_2004a;
+Salmon (I);Fish;;2;0.048165641;9.9;19.2;;;69.8;79.7;Sivertsvik_2004a;Sivertsvik_2004a;;;Sivertsvik_2004a;Sivertsvik_2004a;
+Salmon (I);Fish;;4;0.03976369;9.9;19.2;;;69.8;79.7;Sivertsvik_2004a;Sivertsvik_2004a;;;Sivertsvik_2004a;Sivertsvik_2004a;
+Ham;Meat;;22;0.038604825;3;19;;;74;77;Chaix_2015;Chaix_2015;;;Chaix_2015;Chaix_2015;
+Raw pork;Meat;P28400;30;0.028767857;18;18;0.12;0;61.9;79.9;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Raw pork;Meat;P28400;15;0.036508929;18;18;0.12;0;61.9;79.9;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Raw pork;Meat;P28400;0;0.046026786;18;18;0.12;0;61.9;79.9;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Raw pork;Meat;P28400;-1;0.047232143;18;18;0.12;0;61.9;79.9;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Raw pork;Meat;P28400;20;0.032540179;18;18;0.12;0;61.9;79.9;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Raw pork;Meat;P28400;5;0.041866071;18;18;0.12;0;61.9;79.9;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Raw pork;Meat;P28400;25;0.030950893;18;18;0.12;0;61.9;79.9;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Raw pork;Meat;P28400;10;0.037696429;18;18;0.12;0;61.9;79.9;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Chicken -- Breast fillets Product density : 1;Meat;P36017;2;0.05379247;1.34;23.5;0.13;0.2;74.3;75.64;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Rotabakk_2010;
+Smoked ham;Meat;P28801;7;0.039955357;16.1;24.2;5.17;0.53;55.8;71.9;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Fava_1992;
+Bacon;Meat;P28727;7;0.037410714;2.6;23.1;3.18;0.2;70.1;72.7;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Fava_1992;
+Lamb meat;Meat;P21517;25;0.037303571;23.1;16.9;0.2;0;59.3;82.4;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Lamb meat;Meat;P21517;-1;0.052991071;23.1;16.9;0.2;0;59.3;82.4;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Lamb meat;Meat;P21517;10;0.044446429;23.1;16.9;0.2;0;59.3;82.4;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Lamb meat;Meat;P21517;15;0.041267857;23.1;16.9;0.2;0;59.3;82.4;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Lamb meat;Meat;P21517;20;0.039683036;23.1;16.9;0.2;0;59.3;82.4;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Lamb meat;Meat;P21517;5;0.047008929;23.1;16.9;0.2;0;59.3;82.4;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Lamb meat;Meat;P21517;0;0.050803571;23.1;16.9;0.2;0;59.3;82.4;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Lamb meat;Meat;P21517;30;0.034522321;23.1;16.9;0.2;0;59.3;82.4;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Gill_1988;
+Mortadella;Meat;P30789;7;0.038660714;26.7;15;2.13;0;55.1;81.8;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Fava_1992;
+Sausage I;Meat;;0;0.030293653;30.4;10;1.71;;53.3;83.7;Morten_2005;Morten_2005;Morten_2005;;Morten_2005;Morten_2005;
+Sausage I;Meat;;4;0.026312202;30.4;10;1.71;;53.3;83.7;Morten_2005;Morten_2005;Morten_2005;;Morten_2005;Morten_2005;
+Sausage I;Meat;;8;0.025468116;30.4;10;1.71;;53.3;83.7;Morten_2005;Morten_2005;Morten_2005;;Morten_2005;Morten_2005;
+Sausage II;Meat;;0;0.030095656;31.1;10;1.73;;52.9;84;Morten_2005;Morten_2005;Morten_2005;;Morten_2005;Morten_2005;
+Sausage II;Meat;;4;0.027940748;31.1;10;1.73;;52.9;84;Morten_2005;Morten_2005;Morten_2005;;Morten_2005;Morten_2005;
+Salami;Meat;P30350;7;0.029196429;41.8;17.7;4.05;0.2;33.2;75;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Fava_1992;
+Pork meat ham;Meat;;0;0.039355857;5.7;17.3;3.28;;72.3;78;Morten_2005;Morten_2005;Morten_2005;;Morten_2005;Morten_2005;
+Pork meat ham;Meat;;4;0.035474848;5.7;17.3;3.28;;72.3;78;Morten_2005;Morten_2005;Morten_2005;;Morten_2005;Morten_2005;
+Pork meat ham;Meat;;8;0.033708897;5.7;17.3;3.28;;72.3;78;Morten_2005;Morten_2005;Morten_2005;;Morten_2005;Morten_2005;
+Cooked ham;Meat;P10804;7;0.057366071;6.16;17.44;;;72.42;78.58;meatyLab;meatyLab;;;meatyLab;Piergiovanni_1992;
+Pork meat ham;Meat;P10804;22;0.016725352;6.16;17.44;;;72.42;78.58;meatyLab;meatyLab;;;meatyLab;unknown;
+Beef meat;Meat;P23072;25;0.025397321;7.67;20.87;0.12;0;70.58;78.25;meatyLab;meatyLab;meatylab_6001;meatyLab;meatyLab;Gill_1988;
+Beef meat;Meat;P23072;0;0.0420625;7.67;20.87;0.12;0;70.58;78.25;meatyLab;meatyLab;meatylab_6001;meatyLab;meatyLab;Gill_1988;
+Beef meat;Meat;P23072;10;0.034125;7.67;20.87;0.12;0;70.58;78.25;meatyLab;meatyLab;meatylab_6001;meatyLab;meatyLab;Gill_1988;
+Beef meat;Meat;P23072;5;0.03809375;7.67;20.87;0.12;0;70.58;78.25;meatyLab;meatyLab;meatylab_6001;meatyLab;meatyLab;Gill_1988;
+Beef meat;Meat;P23072;30;0.023017857;7.67;20.87;0.12;0;70.58;78.25;meatyLab;meatyLab;meatylab_6001;meatyLab;meatyLab;Gill_1988;
+Beef meat;Meat;P23072;-1;0.043254464;7.67;20.87;0.12;0;70.58;78.25;meatyLab;meatyLab;meatylab_6001;meatyLab;meatyLab;Gill_1988;
+Beef meat;Meat;P23072;15;0.030950893;7.67;20.87;0.12;0;70.58;78.25;meatyLab;meatyLab;meatylab_6001;meatyLab;meatyLab;Gill_1988;
+Beef meat;Meat;P23072;20;0.028174107;7.67;20.87;0.12;0;70.58;78.25;meatyLab;meatyLab;meatylab_6001;meatyLab;meatyLab;Gill_1988;
+oliv oil;Oil;;22;0.0581;100;0;0.0084;0;0;100;;;;;;unknown;
+oliv oil;Oil;;25;0.068901;100;0;0.0084;0;0;100;;;;;;unknown;
+oliv oil;Oil;;35;0.0587685;100;0;0.0084;0;0;100;;;;;;unknown;
+oliv oil;Oil;;45;0.0506625;100;0;0.0084;0;0;100;;;;;;unknown;
+oliv oil;Oil;;55;0.04559625;100;0;0.0084;0;0;100;;;;;;unknown;
+grape seed oil;Oil;;22;0.0644;100;0;0;0;0;100;;;;;;unknown;
+Water;Water;;0;0.076437787;0;0;0;0;100;100;;;;;;unknown;
+Water;Water;;1;0.07317653;0;0;0;0;100;100;;;;;;unknown;
+Water;Water;;2;0.070160742;0;0;0;0;100;100;;;;;;unknown;
+Water;Water;;3;0.067390082;0;0;0;0;100;100;;;;;;unknown;
+Water;Water;;4;0.064771409;0;0;0;0;100;100;;;;;;unknown;
+Water;Water;;5;0.062392577;0;0;0;0;100;100;;;;;;unknown;
+Water;Water;;6;0.060118041;0;0;0;0;100;100;;;;;;unknown;
+Water;Water;;7;0.057904923;0;0;0;0;100;100;;;;;;unknown;
+Water;Water;;8;0.055577312;0;0;0;0;100;100;;;;;;unknown;
+Water;Water;;9;0.053440416;0;0;0;0;100;100;;;;;;unknown;
+Water;Water;;10;0.051404427;0;0;0;0;100;100;;;;;;unknown;
+Water;Water;;11;0.049512443;0;0;0;0;100;100;;;;;;unknown;
+Water;Water;;12;0.047761664;0;0;0;0;100;100;;;;;;unknown;
+Water;Water;;13;0.046152035;0;0;0;0;100;100;;;;;;unknown;
+Water;Water;;14;0.044595714;0;0;0;0;100;100;;;;;;unknown;
+Water;Water;;15;0.043135358;0;0;0;0;100;100;;;;;;unknown;
+Recipe 1_50/50 oleic/stearic acid;Fish;;0;0.071277793;18.8;17.5;0.39;;64.6;83.4;Abel_2018;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 2_50/50 stearic/DHA and EPA mix;Fish;;0;0.08209502;19.8;17.5;0.39;;63.8;83.6;Abel_2019;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 3_50/50 oloeic/DHA and EPA mix;Fish;;0;0.08135958;18.9;17.5;0.39;;64.2;83.1;Abel_2020;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 4_33/33/33 oleic/stearic/DHA and EPA mix;Fish;;0;0.083853173;19.4;17.5;0.39;;64;83.4;Abel_2021;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 5_100% stearic acid;Fish;;0;0.082881155;18.5;17.5;0.39;;64.6;83.1;Abel_2022;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 6_100% oleic acid;Fish;;0;0.072058614;18.5;17.5;0.39;;63.9;82.4;Abel_2023;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 7_100% DHA and EPA mix;Fish;;0;0.08910069;14.5;17.5;0.39;;64.1;78.6;Abel_2024;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 8_control;Fish;;0;0.089328861;0.6;17.5;0.39;;78.1;78.7;Abel_2025;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 1_50/50 oleic/stearic acid;Fish;;8;0.058376623;18.8;17.5;0.39;;64.6;83.4;Abel_2026;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 2_50/50 stearic/DHA and EPA mix;Fish;;8;0.070247934;19.8;17.5;0.39;;63.8;83.6;Abel_2027;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 3_50/50 oloeic/DHA and EPA mix;Fish;;8;0.071946023;18.9;17.5;0.39;;64.2;83.1;Abel_2028;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 4_33/33/33 oleic/stearic/DHA and EPA mix;Fish;;8;0.068250689;19.4;17.5;0.39;;64;83.4;Abel_2029;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 5_100% stearic acid;Fish;;8;0.064438503;18.5;17.5;0.39;;64.6;83.1;Abel_2030;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 6_100% oleic acid;Fish;;8;0.061038961;18.5;17.5;0.39;;63.9;82.4;Abel_2031;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 7_100% DHA and EPA mix;Fish;;8;0.077072193;14.5;17.5;0.39;;64.1;78.6;Abel_2032;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 8_control;Fish;;8;0.074025974;0.6;17.5;0.39;;78.1;78.7;Abel_2033;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 1_50/50 oleic/stearic acid;Fish;;20;0.049498468;18.8;17.5;0.39;;64.6;83.4;Abel_2034;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 2_50/50 stearic/DHA and EPA mix;Fish;;20;0.053786392;19.8;17.5;0.39;;63.8;83.6;Abel_2035;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 3_50/50 oloeic/DHA and EPA mix;Fish;;20;0.060237382;18.9;17.5;0.39;;64.2;83.1;Abel_2036;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 4_33/33/33 oleic/stearic/DHA and EPA mix;Fish;;20;0.054504563;19.4;17.5;0.39;;64;83.4;Abel_2037;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 5_100% stearic acid;Fish;;20;0.048820406;18.5;17.5;0.39;;64.6;83.1;Abel_2038;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 6_100% oleic acid;Fish;;20;0.061588559;18.5;17.5;0.39;;63.9;82.4;Abel_2039;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 7_100% DHA and EPA mix;Fish;;20;0.048600376;14.5;17.5;0.39;;64.1;78.6;Abel_2040;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+Recipe 8_control;Fish;;20;0.026798658;0.6;17.5;0.39;;78.1;78.7;Abel_2014;MeatyLab;MeatyLab;MeatyLab;Abel_2018;Abel_2018;
+controlW;Fish;;2.2;0.08219697;6;21;0.5;;66;72;Abel_2014;MeatyLab;Abel_2020;MeatyLab;Abel_2020;Abel_2020;
+controlS;Fish;;2.2;0.075096484;5;21;1.2;;72;77;Abel_2042;MeatyLab;Abel_2020;MeatyLab;Abel_2020;Abel_2020;
+carbW;Fish;;2.2;0.084161932;6;21;0.5;;66;72;Abel_2043;MeatyLab;Abel_2020;MeatyLab;Abel_2020;Abel_2020;
+carbS;Fish;;2.2;0.073438126;5;21;1.2;;72;77;Abel_2044;MeatyLab;Abel_2020;MeatyLab;Abel_2020;Abel_2020;
+SGSW;Fish;;2.2;0.083950121;6;21;0.5;;66;72;Abel_2045;MeatyLab;Abel_2020;MeatyLab;Abel_2020;Abel_2020;
+SGSS;Fish;;2.2;0.073381125;5;21;1.2;;72;77;Abel_2046;MeatyLab;Abel_2020;MeatyLab;Abel_2020;Abel_2020;
+renneted casein matrices;Cheese;;5;0.0385;0.39;31.2;1.9;5.08;61.43;61.82;paper;paper;paper;paper;paper;Lamichhane et al 2021;
+renneted casein matrices;Cheese;;12;0.034;0.39;31.2;1.9;5.08;61.43;61.82;paper;paper;paper;paper;paper;Lamichhane et al 2021;
+renneted casein matrices;Cheese;;25;0.025;0.39;31.2;1.9;5.08;61.43;61.82;paper;paper;paper;paper;paper;Lamichhane et al 2021;
+renneted casein matrices;Cheese;;5;0.028;0.39;31.11;2.5;4.62;61.38;61.77;paper;paper;paper;paper;paper;Lamichhane et al 2022;
+renneted casein matrices;Cheese;;5;0.034;0.39;31.11;1.5;5.62;61.38;61.77;paper;paper;paper;paper;paper;Lamichhane et al 2023;
+renneted casein matrices;Cheese;;5;0.036;0.39;31.11;0;7.12;61.38;61.77;paper;paper;paper;paper;paper;Lamichhane et al 2024;
+poultry fillets ;Meat;P36017;4;0.064625992;1.34;23.5;0.13;0.2;74.3;75.64;meatyLab;meatyLab;meatyLab;meatyLab;meatyLab;Meredith et al 2014;
